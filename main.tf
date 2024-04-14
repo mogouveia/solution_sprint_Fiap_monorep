@@ -1,1 +1,3 @@
-var amr ="teste"
+resource var "main"{
+
+}
